@@ -5,7 +5,7 @@ export const Nav = styled.div`
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  margin-top:2rem;
+  padding-top:1rem;
 `;
 
 export const Logo = styled.div`
